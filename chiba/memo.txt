@@ -1,0 +1,13 @@
+
+千葉市内については、https://www.city.chiba.jp/hokenfukushi/iryoeisei/seisaku/covid-19/cov_kubetsu1.html 
+から2021年3月1日現在のデータ を取得。
+
+千葉県については、https://www.nhk.or.jp/shutoken/coronavirus/local2data.html
+から2021年3月2日現在のデータ を取得。
+
+人口重心のデータは https://www.stat.go.jp/data/kokusei/topics/topi102.html
+から取得(平成27年(つまり2015年)の国勢調査のデータから)
+
+以上3個のデータをエクセル上で、緯度経度については分秒を含めて度に変換し、さらにvlookup関数で組みあわせた。
+
+取得日付が違うので、千葉市については各区の計4203人と、4247人のように、44人(1%強)のずれがある。
