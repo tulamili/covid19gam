@@ -1,10 +1,15 @@
 
+[新型コロナの患者数] 
 千葉市内については、https://www.city.chiba.jp/hokenfukushi/iryoeisei/seisaku/covid-19/cov_kubetsu1.html 
 から2021年3月1日現在のデータ を取得。
 
-千葉県については、https://www.nhk.or.jp/shutoken/coronavirus/local2data.html
+千葉県の各市町村については、https://www.nhk.or.jp/shutoken/coronavirus/local2data.html
 から2021年3月2日現在のデータ を取得。
 
+[住民人口]
+https://www.soumu.go.jp/menu_news/s-news/17216_1.html
+
+[人口重心]
 人口重心のデータは https://www.stat.go.jp/data/kokusei/topics/topi102.html
 から取得(平成27年(つまり2015年)の国勢調査のデータから)
 
