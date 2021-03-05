@@ -1,4 +1,4 @@
-x63<-read.delim("kanagawa0303.txt")
+x63<-read.delim("kanagawa0303.tsv")
 library( mgcv )
 library(maps)
 attach(x63)
