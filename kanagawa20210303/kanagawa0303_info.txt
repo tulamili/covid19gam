@@ -1,0 +1,14 @@
+神奈川県の市区町村の新型コロナのデータを得るために、下記の方法を用いた。
+
+NHK 3/4: 
+https://www.nhk.or.jp/shutoken/coronavirus/local2data.html
+(神奈川県の区を持つ市について各区の情報は無い。)
+
+横浜市の各区 3/3?: 
+https://www.city.yokohama.lg.jp/city-info/koho-kocho/koho/topics/corona-data.html
+
+川崎市の各区 3/3? : 
+https://www.city.kawasaki.jp/350/page/0000116827.html
+
+相模原市の各区 3/3?: 
+https://www.city.sagamihara.kanagawa.jp/kurashi/kenko/kansenyobo/1019910/1020286.html
